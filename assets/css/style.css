@@ -185,11 +185,11 @@ section {
 
 
 /* WHAT YOU DO STYLES START */
-.steps { 
+.examples { 
   background: #fce138;
 }
 
-.step {
+.example {
   margin: 50px auto;
   padding-bottom: 50px;
   width: 80%;
@@ -200,38 +200,38 @@ section {
   justify-content: space-between;
 }
 
-.step h3 {
+.example h3 {
   color: #024e76;
   font-size: 46px;
   flex: 1 30%;
 }
 
-.step-info {
+.example-info {
   flex: 2 70%;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
 }
 
-.step-img {
+.example-img {
   flex: 1 12%;
   margin-right: 20px;
 }
 
-.step-img img {
+.example-img img {
   max-width: 100%;
 }
 
-.step-text {
+.example-text {
   flex: 12;
 }
 
-.step-text p {
+.example-text p {
   color: #39a6b2;
   font-size: 18px;
 }
 
-.step-text h4 {
+.example-text h4 {
   font-size: 26px;
   line-height: 1.5;
   color: #024e76;
@@ -240,7 +240,7 @@ section {
 /* WHAT YOU DO STYLES END */
 
 /* MEET THE TRAINERS START */
-.trainers {
+.windows {
   width: 100%;
   margin: 0 auto;
   display: flex;
